@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Ksenia\Desktop\Программы\2 курс 1 семестр\PoBit\PoBit\Source.cpp(31,20): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\Ksenia\Desktop\Программы\2 курс 1 семестр\PoBit\PoBit\Source.cpp(65,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Ksenia\Desktop\Программы\2 курс 1 семестр\PoBit\PoBit\Source.cpp(66,14): warning C4101: i: неиспользованная локальная переменная
+  PoBit.vcxproj -> C:\Users\Ksenia\Desktop\Программы\2 курс 1 семестр\PoBit\Debug\PoBit.exe
